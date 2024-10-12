@@ -1,0 +1,16 @@
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    background-color: forestgreen;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    width: 300px;
+    margin-bottom: 10px;
+}
